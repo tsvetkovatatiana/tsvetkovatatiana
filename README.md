@@ -4,7 +4,7 @@
 ## Preferred tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgresql,redis,neo4j,react,docker,git" />
+    <img src="https://skillicons.dev/icons?i=py,postgresql,redis,mongodb,react,docker,git" />
   </a>
 </p>
 
