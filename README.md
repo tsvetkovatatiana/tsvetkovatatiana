@@ -1,5 +1,6 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsvetkovatatiana&theme=ayu_mirage)
 ## Stats
-[![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsvetkovatatiana&theme=tokyonight)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsvetkovatatiana&theme=ayu_mirage)
 ## Preferred tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -8,5 +9,5 @@
 </p>
 
 ## Productive time and top languages
-[![productive-time?](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsvetkovatatiana&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![most-commit-language?](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsvetkovatatiana&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![productive-time?](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsvetkovatatiana&theme=ayu_mirage&utcOffset=8)
+![most-commit-language?](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsvetkovatatiana&theme=ayu_mirage)
