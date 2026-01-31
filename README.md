@@ -1,6 +1,5 @@
 ## Stats
-[![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsvetkovatatiana&theme=tokyonight)](https://github-profile-summary-cards.vercel.app)
-
+[![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsvetkovatatiana&theme=tokyonight)]
 ## Preferred tools
 <p align="center">
   <a href="https://skillicons.dev">
